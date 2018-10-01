@@ -1,22 +1,11 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> I worked on getting people's environments set up with Go and Postgres so that they can have the shuttle tracker running. This was my task for the past few weeks. This past week in particular was pretty slow as I was away for the majority of it.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+> This week I'm going to start working on a feature that will allow users to select which shuttle route they would like to view
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> I'm just thinking about how maybe I can allow a user to set a certain route as a default selection. This is more of a problem for the future once I actually get the toggle feature working, but I'm going to keep this in the back of my mind.
